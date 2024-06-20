@@ -1,5 +1,11 @@
 # viem
 
+## 2.16.1
+
+### Patch Changes
+
+- [#2429](https://github.com/wevm/viem/pull/2429) [`3781bbb`](https://github.com/wevm/viem/commit/3781bbb8b3ee8de065a581c97410389b84f7e9c8) Thanks [@jxom](https://github.com/jxom)! - Fixed an issue where `getAction` would ignore nullish return values from a synchronous Client Action.
+
 ## 2.16.0
 
 ### Minor Changes
